@@ -4,7 +4,7 @@ set -e
 
 # download
 cd ~
-git clone https://github.com/grosser/dotfiles.git
+git clone https://github.com/sathishavm/dotfiles.git
 
 # use correct branch
 cd dotfiles

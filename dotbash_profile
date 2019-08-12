@@ -8,6 +8,6 @@ export SKIP_DOCKER_CHECK=true # speeds up startup a bit
 if [ -f ~/Code/zendesk/docker-images/dockmaster/zdi.sh ]; then
 # BEGIN DOCKER-IMAGES
 export DOCKER_FOR_MAC_ENABLED=true
-source /Users/mgrosser/Code/zendesk/docker-images/dockmaster/zdi.sh
+source /Users/ssubramanian/Code/zendesk/docker-images/dockmaster/zdi.sh
 # END DOCKER-IMAGES
 fi
